@@ -7,3 +7,5 @@
 #https://www.kushalstudy.com/blog/how-to-build-multi-threaded-web-scraper-in-python/ (Multi thread web scraper for phone numbers and State/cities spread accross firm websites)
 
 #https://www.kushalstudy.com/blog/how-to-scrape-email-and-phone-number-from-any-website-with-python/ (data scrub information for phone number and website)
+
+Gmail Account: abenj0142@gmail.com Pass: TestAcc31
