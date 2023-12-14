@@ -10,4 +10,5 @@
 
 Gmail Account: abenj0142@gmail.com Pass: TestAcc31
 LinkedIn: abenj0142@gmail.com Pass: TestAcc32
-Finra Account: cnwasike1   CFINRA32!!!@
+Finra Account: cnwasike1   Pass: WRQh">yE~;Va:-!5[74xmc
+
