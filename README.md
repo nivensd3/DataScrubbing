@@ -12,3 +12,18 @@ Gmail Account: abenj0142@gmail.com Pass: TestAcc31
 LinkedIn: abenj0142@gmail.com Pass: TestAcc32
 Finra Account: cnwasike1   Pass: WRQh">yE~;Va:-!5[74xmc
 
+curl --location 'https://api.zoominfo.com/authenticate' \
+--header 'Content-Type: application/json' \
+--data '{
+    "username": "username",
+    "password": "password"
+}'
+
+
+
+curl --location 'https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ifkv=ASKXGp3igXEQSjTsWvbrpJ61hChKAzBVVcirSL5ycczyQHLIE0k9XKFNhqpiiku4dCXe-RKmsJaQxQ&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1962466573%3A1702835311826831&theme=glif'
+-header 'Content-Type: application/json' \
+--data '{
+    "email": "abenj0142@gmail.com",
+    "password": "TestAcc31"
+}'
